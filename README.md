@@ -26,7 +26,7 @@
 
 ---
 
-😄 **Pronouns**: He/Him  
+
 ⚡ **Fun fact**: When I’m not coding, I love to explore new tech trends, learn new skills, and stay up-to-date with the latest in software development.
 
 Let's connect and build something amazing together!
